@@ -1,7 +1,7 @@
 import json
 from socket import socket
 
-from Cipher import *
+from сipher import *
 from filemanager import *
 
 

@@ -1,6 +1,6 @@
 from socket import socket
 
-from Cipher import *
+from сipher import *
 from protectedServer import getKey
 from settings import PathsStorage, GeneralSettings, Messages
 
