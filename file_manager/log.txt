@@ -1,0 +1,522 @@
+-------------------------
+2021-12-19 19:25:46.977320: Пользователь qwe авторизовался
+-------------------------
+2021-12-19 19:26:05.955554: От пользователя qwe получено 'ls'
+-------------------------
+2021-12-19 19:26:05.955554: Пользователю qwe отправлено 'incorrect request
+'
+-------------------------
+2021-12-19 19:26:11.922278: От пользователя qwe получено ''
+-------------------------
+2021-12-19 19:26:11.922278: Пользователю qwe отправлено 'incorrect request
+'
+-------------------------
+2021-12-19 19:26:59.920293: Пользователь qwe авторизовался
+-------------------------
+2021-12-19 19:40:07.160658: Пользователь qwe авторизовался
+-------------------------
+2021-12-19 19:41:24.821692: Пользователь qwe авторизовался
+-------------------------
+2021-12-19 19:41:27.850974: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'ls'
+-------------------------
+2021-12-19 19:41:27.850974: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено 'incorrect request
+'
+-------------------------
+2021-12-19 19:42:10.462782: Пользователь qwe авторизовался
+-------------------------
+2021-12-19 19:42:12.339310: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'ls'
+-------------------------
+2021-12-19 19:42:12.339310: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено 'incorrect request
+'
+-------------------------
+2021-12-19 19:42:29.066185: Пользователь qwe авторизовался
+-------------------------
+2021-12-19 19:42:49.407752: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'ls'
+-------------------------
+2021-12-19 19:43:38.704952: Пользователь qwe авторизовался
+-------------------------
+2021-12-19 19:43:39.761881: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'ls'
+-------------------------
+2021-12-19 19:43:39.761881: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '
+'
+-------------------------
+2021-12-19 19:43:40.948859: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'pwd'
+-------------------------
+2021-12-19 19:43:40.948859: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '\
+'
+-------------------------
+2021-12-19 19:43:45.680511: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'mkdir 1'
+-------------------------
+2021-12-19 19:43:45.680511: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено 'Такой путь не существует
+'
+-------------------------
+2021-12-19 19:45:40.545823: Пользователь qwe авторизовался
+-------------------------
+2021-12-19 19:45:41.703700: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'ls'
+-------------------------
+2021-12-19 19:45:41.703700: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '
+'
+-------------------------
+2021-12-19 19:45:42.707784: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'pwd'
+-------------------------
+2021-12-19 19:45:42.707784: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '\
+'
+-------------------------
+2021-12-19 19:45:45.601388: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'mkdir 1'
+-------------------------
+2021-12-19 19:45:45.601388: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '
+'
+-------------------------
+2021-12-19 19:45:47.610308: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'ls'
+-------------------------
+2021-12-19 19:45:47.610308: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '1
+'
+-------------------------
+2021-12-19 19:45:51.371125: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'touch 1'
+-------------------------
+2021-12-19 19:45:51.371125: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '
+'
+-------------------------
+2021-12-19 19:45:53.519368: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'ls'
+-------------------------
+2021-12-19 19:45:53.534627: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '1
+1.txt
+'
+-------------------------
+2021-12-19 19:46:01.454917: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'write 1.txt qweewq'
+-------------------------
+2021-12-19 19:46:01.458225: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '
+'
+-------------------------
+2021-12-19 19:46:05.054889: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'cat 1.txt'
+-------------------------
+2021-12-19 19:46:05.070525: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено 'qweewq
+'
+-------------------------
+2021-12-19 19:46:11.257123: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'mv 1.txt 2.txt'
+-------------------------
+2021-12-19 19:46:11.257123: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '
+'
+-------------------------
+2021-12-19 19:46:14.410487: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'ls'
+-------------------------
+2021-12-19 19:46:14.410487: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '1
+2.txt
+'
+-------------------------
+2021-12-19 19:46:19.158601: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'cat 2.txt'
+-------------------------
+2021-12-19 19:46:19.158601: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено 'qweewq
+'
+-------------------------
+2021-12-19 19:46:57.698448: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'mv 2.txt 1'
+-------------------------
+2021-12-19 19:46:57.698448: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '
+'
+-------------------------
+2021-12-19 19:46:59.869928: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'free'
+-------------------------
+2021-12-19 19:46:59.869928: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено 'Всего места: 50
+Свободно: 38
+'
+-------------------------
+2021-12-19 19:47:14.216146: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'cd 1'
+-------------------------
+2021-12-19 19:47:14.219319: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '
+'
+-------------------------
+2021-12-19 19:47:16.354995: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'cd~'
+-------------------------
+2021-12-19 19:47:16.370609: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено 'incorrect request
+'
+-------------------------
+2021-12-19 19:47:19.305513: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'cd ~'
+-------------------------
+2021-12-19 19:47:19.305513: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '
+'
+-------------------------
+2021-12-19 19:47:21.577314: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'cd ..'
+-------------------------
+2021-12-19 19:47:21.577314: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено 'Такой путь не существует
+'
+-------------------------
+2021-12-19 19:47:24.474821: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'cd 1'
+-------------------------
+2021-12-19 19:47:24.474821: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '
+'
+-------------------------
+2021-12-19 19:47:26.048707: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'cd ..'
+-------------------------
+2021-12-19 19:47:26.048707: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '
+'
+-------------------------
+2021-12-19 19:47:30.178952: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'exi'
+-------------------------
+2021-12-19 19:47:30.178952: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено 'incorrect request
+'
+-------------------------
+2021-12-19 19:47:31.985178: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'exit'
+-------------------------
+2021-12-19 19:47:31.985178: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено 'incorrect request
+'
+-------------------------
+2021-12-19 19:47:36.981160: Пользователь #admin авторизовался
+-------------------------
+2021-12-19 19:47:40.164362: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager получено 'cd ..'
+-------------------------
+2021-12-19 19:47:40.164362: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager отправлено 'Такой путь не существует
+'
+-------------------------
+2021-12-19 19:47:47.293045: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager получено 'pwd'
+-------------------------
+2021-12-19 19:47:47.293045: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager отправлено '\
+'
+-------------------------
+2021-12-19 19:49:05.238548: Пользователь #admin авторизовался
+-------------------------
+2021-12-19 19:49:30.183118: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager получено 'cd ..'
+-------------------------
+2021-12-19 19:51:01.732747: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager отправлено 'incorrect request
+'
+-------------------------
+2021-12-19 19:51:01.926834: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager получено ''
+-------------------------
+2021-12-19 19:51:01.926834: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager отправлено 'incorrect request
+'
+-------------------------
+2021-12-19 19:51:13.723694: Пользователь #admin авторизовался
+-------------------------
+2021-12-19 19:51:16.161118: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager получено 'pwd'
+-------------------------
+2021-12-19 19:51:16.161118: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager отправлено '\
+'
+-------------------------
+2021-12-19 19:51:17.516227: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager получено 'ls'
+-------------------------
+2021-12-19 19:51:17.516227: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager отправлено '
+'
+-------------------------
+2021-12-19 19:51:43.375281: Пользователь #admin авторизовался
+-------------------------
+2021-12-19 19:52:02.893064: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager получено 'pwd'
+-------------------------
+2021-12-19 19:52:27.868380: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager отправлено '\
+'
+-------------------------
+2021-12-19 19:52:51.007937: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager получено 'ls'
+-------------------------
+2021-12-19 19:53:33.576984: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager отправлено 'incorrect request
+'
+-------------------------
+2021-12-19 19:53:33.779863: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager получено ''
+-------------------------
+2021-12-19 19:53:33.779863: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager отправлено 'incorrect request
+'
+-------------------------
+2021-12-19 19:53:42.717502: Пользователь #admin авторизовался
+-------------------------
+2021-12-19 19:53:43.920103: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager получено 'ls'
+-------------------------
+2021-12-19 19:53:43.920103: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager отправлено 'admin
+auth.json
+log.txt
+qwe
+'
+-------------------------
+2021-12-19 19:54:04.654157: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager получено 'cat log.txt'
+-------------------------
+2021-12-19 19:54:04.677312: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager отправлено '-------------------------
+2021-12-19 19:25:46.977320: Пользователь qwe авторизовался
+-------------------------
+2021-12-19 19:26:05.955554: От пользователя qwe получено 'ls'
+-------------------------
+2021-12-19 19:26:05.955554: Пользователю qwe отправлено 'incorrect request
+'
+-------------------------
+2021-12-19 19:26:11.922278: От пользователя qwe получено ''
+-------------------------
+2021-12-19 19:26:11.922278: Пользователю qwe отправлено 'incorrect request
+'
+-------------------------
+2021-12-19 19:26:59.920293: Пользователь qwe авторизовался
+-------------------------
+2021-12-19 19:40:07.160658: Пользователь qwe авторизовался
+-------------------------
+2021-12-19 19:41:24.821692: Пользователь qwe авторизовался
+-------------------------
+2021-12-19 19:41:27.850974: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'ls'
+-------------------------
+2021-12-19 19:41:27.850974: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено 'incorrect request
+'
+-------------------------
+2021-12-19 19:42:10.462782: Пользователь qwe авторизовался
+-------------------------
+2021-12-19 19:42:12.339310: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'ls'
+-------------------------
+2021-12-19 19:42:12.339310: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено 'incorrect request
+'
+-------------------------
+2021-12-19 19:42:29.066185: Пользователь qwe авторизовался
+-------------------------
+2021-12-19 19:42:49.407752: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'ls'
+-------------------------
+2021-12-19 19:43:38.704952: Пользователь qwe авторизовался
+-------------------------
+2021-12-19 19:43:39.761881: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'ls'
+-------------------------
+2021-12-19 19:43:39.761881: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '
+'
+-------------------------
+2021-12-19 19:43:40.948859: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'pwd'
+-------------------------
+2021-12-19 19:43:40.948859: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '\
+'
+-------------------------
+2021-12-19 19:43:45.680511: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'mkdir 1'
+-------------------------
+2021-12-19 19:43:45.680511: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено 'Такой путь не существует
+'
+-------------------------
+2021-12-19 19:45:40.545823: Пользователь qwe авторизовался
+-------------------------
+2021-12-19 19:45:41.703700: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'ls'
+-------------------------
+2021-12-19 19:45:41.703700: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '
+'
+-------------------------
+2021-12-19 19:45:42.707784: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'pwd'
+-------------------------
+2021-12-19 19:45:42.707784: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '\
+'
+-------------------------
+2021-12-19 19:45:45.601388: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'mkdir 1'
+-------------------------
+2021-12-19 19:45:45.601388: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '
+'
+-------------------------
+2021-12-19 19:45:47.610308: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'ls'
+-------------------------
+2021-12-19 19:45:47.610308: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '1
+'
+-------------------------
+2021-12-19 19:45:51.371125: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'touch 1'
+-------------------------
+2021-12-19 19:45:51.371125: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '
+'
+-------------------------
+2021-12-19 19:45:53.519368: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'ls'
+-------------------------
+2021-12-19 19:45:53.534627: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '1
+1.txt
+'
+-------------------------
+2021-12-19 19:46:01.454917: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'write 1.txt qweewq'
+-------------------------
+2021-12-19 19:46:01.458225: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '
+'
+-------------------------
+2021-12-19 19:46:05.054889: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'cat 1.txt'
+-------------------------
+2021-12-19 19:46:05.070525: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено 'qweewq
+'
+-------------------------
+2021-12-19 19:46:11.257123: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'mv 1.txt 2.txt'
+-------------------------
+2021-12-19 19:46:11.257123: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '
+'
+-------------------------
+2021-12-19 19:46:14.410487: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'ls'
+-------------------------
+2021-12-19 19:46:14.410487: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '1
+2.txt
+'
+-------------------------
+2021-12-19 19:46:19.158601: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'cat 2.txt'
+-------------------------
+2021-12-19 19:46:19.158601: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено 'qweewq
+'
+-------------------------
+2021-12-19 19:46:57.698448: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'mv 2.txt 1'
+-------------------------
+2021-12-19 19:46:57.698448: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '
+'
+-------------------------
+2021-12-19 19:46:59.869928: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'free'
+-------------------------
+2021-12-19 19:46:59.869928: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено 'Всего места: 50
+Свободно: 38
+'
+-------------------------
+2021-12-19 19:47:14.216146: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'cd 1'
+-------------------------
+2021-12-19 19:47:14.219319: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '
+'
+-------------------------
+2021-12-19 19:47:16.354995: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'cd~'
+-------------------------
+2021-12-19 19:47:16.370609: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено 'incorrect request
+'
+-------------------------
+2021-12-19 19:47:19.305513: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'cd ~'
+-------------------------
+2021-12-19 19:47:19.305513: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '
+'
+-------------------------
+2021-12-19 19:47:21.577314: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'cd ..'
+-------------------------
+2021-12-19 19:47:21.577314: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено 'Такой путь не существует
+'
+-------------------------
+2021-12-19 19:47:24.474821: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'cd 1'
+-------------------------
+2021-12-19 19:47:24.474821: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '
+'
+-------------------------
+2021-12-19 19:47:26.048707: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'cd ..'
+-------------------------
+2021-12-19 19:47:26.048707: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '
+'
+-------------------------
+2021-12-19 19:47:30.178952: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'exi'
+-------------------------
+2021-12-19 19:47:30.178952: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено 'incorrect request
+'
+-------------------------
+2021-12-19 19:47:31.985178: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'exit'
+-------------------------
+2021-12-19 19:47:31.985178: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено 'incorrect request
+'
+-------------------------
+2021-12-19 19:47:36.981160: Пользователь #admin авторизовался
+-------------------------
+2021-12-19 19:47:40.164362: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager получено 'cd ..'
+-------------------------
+2021-12-19 19:47:40.164362: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager отправлено 'Такой путь не существует
+'
+-------------------------
+2021-12-19 19:47:47.293045: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager получено 'pwd'
+-------------------------
+2021-12-19 19:47:47.293045: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager отправлено '\
+'
+-------------------------
+2021-12-19 19:49:05.238548: Пользователь #admin авторизовался
+-------------------------
+2021-12-19 19:49:30.183118: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager получено 'cd ..'
+-------------------------
+2021-12-19 19:51:01.732747: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager отправлено 'incorrect request
+'
+-------------------------
+2021-12-19 19:51:01.926834: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager получено ''
+-------------------------
+2021-12-19 19:51:01.926834: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager отправлено 'incorrect request
+'
+-------------------------
+2021-12-19 19:51:13.723694: Пользователь #admin авторизовался
+-------------------------
+2021-12-19 19:51:16.161118: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager получено 'pwd'
+-------------------------
+2021-12-19 19:51:16.161118: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager отправлено '\
+'
+-------------------------
+2021-12-19 19:51:17.516227: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager получено 'ls'
+-------------------------
+2021-12-19 19:51:17.516227: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager отправлено '
+'
+-------------------------
+2021-12-19 19:51:43.375281: Пользователь #admin авторизовался
+-------------------------
+2021-12-19 19:52:02.893064: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager получено 'pwd'
+-------------------------
+2021-12-19 19:52:27.868380: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager отправлено '\
+'
+-------------------------
+2021-12-19 19:52:51.007937: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager получено 'ls'
+-------------------------
+2021-12-19 19:53:33.576984: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager отправлено 'incorrect request
+'
+-------------------------
+2021-12-19 19:53:33.779863: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager получено ''
+-------------------------
+2021-12-19 19:53:33.779863: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager отправлено 'incorrect request
+'
+-------------------------
+2021-12-19 19:53:42.717502: Пользователь #admin авторизовался
+-------------------------
+2021-12-19 19:53:43.920103: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager получено 'ls'
+-------------------------
+2021-12-19 19:53:43.920103: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager отправлено 'admin
+auth.json
+log.txt
+qwe
+'
+-------------------------
+2021-12-19 19:54:04.654157: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager получено 'cat log.txt'
+
+'
+-------------------------
+2021-12-19 19:54:26.552047: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager получено 'pwd'
+-------------------------
+2021-12-19 19:54:26.556141: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager отправлено '\
+'
+-------------------------
+2021-12-19 19:54:47.241191: Пользователь #admin авторизовался
+-------------------------
+2021-12-19 19:54:48.586628: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager получено 'exit'
+-------------------------
+2021-12-19 19:54:48.586628: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager отправлено 'incorrect request
+'
+-------------------------
+2021-12-19 19:54:51.607170: Пользователь qwe авторизовался
+-------------------------
+2021-12-19 19:54:56.670849: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'cat ../log.txt'
+-------------------------
+2021-12-19 19:54:56.670849: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено 'Такой путь не существует
+'
+-------------------------
+2021-12-19 19:55:02.414045: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'exit'
+-------------------------
+2021-12-19 19:55:02.414045: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено 'incorrect request
+'
+-------------------------
+2021-12-19 22:27:11.198019: Пользователь qwe авторизовался
+-------------------------
+2021-12-19 22:27:19.971580: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'ls'
+-------------------------
+2021-12-19 22:27:19.971580: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '1
+'
+-------------------------
+2021-12-19 22:27:21.920832: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'pwd'
+-------------------------
+2021-12-19 22:27:21.936444: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '\
+'
+-------------------------
+2021-12-19 22:29:31.947433: Пользователь qwe авторизовался
+-------------------------
+2021-12-19 22:29:33.936282: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'ls'
+-------------------------
+2021-12-19 22:29:33.936282: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '1
+'
+-------------------------
+2021-12-19 22:29:35.539113: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'pwd'
+-------------------------
+2021-12-19 22:29:35.539113: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '\
+'
+-------------------------
+2021-12-19 22:49:54.587540: Пользователь qwe авторизовался
+-------------------------
+2021-12-19 22:49:55.665704: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'ls'
+-------------------------
+2021-12-19 22:49:55.665704: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '1
+'
+-------------------------
+2021-12-19 22:50:01.319068: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'pwd'
+-------------------------
+2021-12-19 22:50:01.334334: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '\
+'
+-------------------------
+2021-12-19 22:52:45.815971: Пользователь qwe авторизовался
+-------------------------
+2021-12-19 22:52:49.910190: От пользователя C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe получено 'ls'
+-------------------------
+2021-12-19 22:52:49.910190: Пользователю C:\Users\79272\Desktop\8_Assymmetric_ciphers\file_manager\qwe отправлено '1
+'
